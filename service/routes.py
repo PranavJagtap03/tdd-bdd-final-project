@@ -101,6 +101,7 @@ def create_products():
 #
 # PLACE YOUR CODE TO LIST ALL PRODUCTS HERE
 #
+hi
 
 ######################################################################
 # R E A D   A   P R O D U C T
